@@ -55,5 +55,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/VanshShukla17/LEETCODE/tree/master/0007-reverse-integer) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VanshShukla17/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2119-a-number-after-a-double-reversal](https://github.com/VanshShukla17/LEETCODE/tree/master/2119-a-number-after-a-double-reversal) |
 <!---LeetCode Topics End-->

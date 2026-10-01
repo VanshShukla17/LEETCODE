@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/VanshShukla17/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/VanshShukla17/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/VanshShukla17/LEETCODE/tree/master/2119-a-number-after-a-double-reversal) |
+| [3536-maximum-product-of-two-digits](https://github.com/VanshShukla17/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VanshShukla17/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/VanshShukla17/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Interactive
 |  |
 | ------- |

@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/VanshShukla17/LEETCODE/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/VanshShukla17/LEETCODE/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/VanshShukla17/LEETCODE/tree/master/0367-valid-perfect-square) |
+| [0728-self-dividing-numbers](https://github.com/VanshShukla17/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VanshShukla17/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VanshShukla17/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/VanshShukla17/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/VanshShukla17/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/VanshShukla17/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [2396-strictly-palindromic-number](https://github.com/VanshShukla17/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/VanshShukla17/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/VanshShukla17/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/VanshShukla17/LEETCODE/tree/master/2119-a-number-after-a-double-reversal) |
+| [2396-strictly-palindromic-number](https://github.com/VanshShukla17/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/VanshShukla17/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/VanshShukla17/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/VanshShukla17/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/VanshShukla17/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->

@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/VanshShukla17/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/VanshShukla17/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/VanshShukla17/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/VanshShukla17/LEETCODE/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/VanshShukla17/LEETCODE/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/VanshShukla17/LEETCODE/tree/master/3945-digit-frequency-score) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/VanshShukla17/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/VanshShukla17/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/VanshShukla17/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/VanshShukla17/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/VanshShukla17/LEETCODE/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Queue
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/VanshShukla17/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/VanshShukla17/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/VanshShukla17/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |

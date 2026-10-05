@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/VanshShukla17/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/VanshShukla17/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0876-middle-of-the-linked-list](https://github.com/VanshShukla17/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/VanshShukla17/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VanshShukla17/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/VanshShukla17/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/VanshShukla17/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |

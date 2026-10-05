@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/VanshShukla17/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/VanshShukla17/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VanshShukla17/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/VanshShukla17/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VanshShukla17/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/VanshShukla17/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/VanshShukla17/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VanshShukla17/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/VanshShukla17/LEETCODE/tree/master/0771-jewels-and-stones) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VanshShukla17/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/VanshShukla17/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/VanshShukla17/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/VanshShukla17/LEETCODE/tree/master/3760-maximum-substrings-with-distinct-start) |

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/VanshShukla17/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VanshShukla17/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VanshShukla17/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0941-valid-mountain-array](https://github.com/VanshShukla17/LEETCODE/tree/master/0941-valid-mountain-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/VanshShukla17/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/VanshShukla17/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VanshShukla17/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/VanshShukla17/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/VanshShukla17/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/VanshShukla17/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VanshShukla17/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/VanshShukla17/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/VanshShukla17/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VanshShukla17/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/VanshShukla17/LEETCODE/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VanshShukla17/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/VanshShukla17/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VanshShukla17/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/VanshShukla17/LEETCODE/tree/master/0771-jewels-and-stones) |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/VanshShukla17/LEETCODE/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/VanshShukla17/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VanshShukla17/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/VanshShukla17/LEETCODE/tree/master/2418-sort-the-people) |
 | [3536-maximum-product-of-two-digits](https://github.com/VanshShukla17/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |

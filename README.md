@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/VanshShukla17/LEETCODE/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/VanshShukla17/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/VanshShukla17/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VanshShukla17/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/VanshShukla17/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/VanshShukla17/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/VanshShukla17/LEETCODE/tree/master/0202-happy-number) |

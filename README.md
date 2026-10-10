@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/VanshShukla17/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/VanshShukla17/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/VanshShukla17/LEETCODE/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/VanshShukla17/LEETCODE/tree/master/3701-compute-alternating-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/VanshShukla17/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Backtracking
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/VanshShukla17/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VanshShukla17/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/VanshShukla17/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
+| [3701-compute-alternating-sum](https://github.com/VanshShukla17/LEETCODE/tree/master/3701-compute-alternating-sum) |
 | [3959-check-good-integer](https://github.com/VanshShukla17/LEETCODE/tree/master/3959-check-good-integer) |
 ## Number Theory
 |  |

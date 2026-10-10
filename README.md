@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/VanshShukla17/LEETCODE/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/VanshShukla17/LEETCODE/tree/master/2239-find-closest-number-to-zero) |
 | [2418-sort-the-people](https://github.com/VanshShukla17/LEETCODE/tree/master/2418-sort-the-people) |
+| [2574-left-and-right-sum-differences](https://github.com/VanshShukla17/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/VanshShukla17/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/VanshShukla17/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/VanshShukla17/LEETCODE/tree/master/3668-restore-finishing-order) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1208-get-equal-substrings-within-budget](https://github.com/VanshShukla17/LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
 | [1480-running-sum-of-1d-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/VanshShukla17/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
 |  |
 | ------- |

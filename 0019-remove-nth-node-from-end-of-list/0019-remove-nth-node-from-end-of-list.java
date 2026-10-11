@@ -16,9 +16,6 @@ class Solution {
         if(head == null){
             return null;
         }
-        if(head.next ==null && n==1){
-            return null;
-        }
         if(index == 0){
             head = head.next;
             return head;

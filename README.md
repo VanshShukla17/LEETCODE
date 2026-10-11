@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/VanshShukla17/LEETCODE/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2574-left-and-right-sum-differences](https://github.com/VanshShukla17/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/VanshShukla17/LEETCODE/tree/master/2942-find-words-containing-character) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VanshShukla17/LEETCODE/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/VanshShukla17/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/VanshShukla17/LEETCODE/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/VanshShukla17/LEETCODE/tree/master/3701-compute-alternating-sum) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/VanshShukla17/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2418-sort-the-people](https://github.com/VanshShukla17/LEETCODE/tree/master/2418-sort-the-people) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VanshShukla17/LEETCODE/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/VanshShukla17/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/VanshShukla17/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/VanshShukla17/LEETCODE/tree/master/3668-restore-finishing-order) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/VanshShukla17/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/VanshShukla17/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VanshShukla17/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VanshShukla17/LEETCODE/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |

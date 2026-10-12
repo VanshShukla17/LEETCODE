@@ -16,16 +16,16 @@ class Solution {
             cur = cur.next;
             i++;
         }
-        ListNode cur2 = cur;
+        ListNode afterB = cur;
         while(i<=b){
-            cur2 = cur2.next;
+            afterB = afterB.next;
             i++;
         }
         cur.next = list2;
         while(list2.next!=null){
             list2 = list2.next;
         }
-        list2.next =  cur2.next;
+        list2.next =  afterB.next;
     return list1;
     }
 }

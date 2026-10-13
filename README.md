@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VanshShukla17/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/VanshShukla17/LEETCODE/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/VanshShukla17/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/VanshShukla17/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/VanshShukla17/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
@@ -281,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/VanshShukla17/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/VanshShukla17/LEETCODE/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

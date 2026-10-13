@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/VanshShukla17/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VanshShukla17/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/VanshShukla17/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VanshShukla17/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0941-valid-mountain-array](https://github.com/VanshShukla17/LEETCODE/tree/master/0941-valid-mountain-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/VanshShukla17/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VanshShukla17/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/VanshShukla17/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/VanshShukla17/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/VanshShukla17/LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/VanshShukla17/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/VanshShukla17/LEETCODE/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/VanshShukla17/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/VanshShukla17/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/VanshShukla17/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/VanshShukla17/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Enumeration
@@ -286,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/VanshShukla17/LEETCODE/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/VanshShukla17/LEETCODE/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

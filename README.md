@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/VanshShukla17/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VanshShukla17/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0922-sort-array-by-parity-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/VanshShukla17/LEETCODE/tree/master/0941-valid-mountain-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/VanshShukla17/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/VanshShukla17/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/VanshShukla17/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [0922-sort-array-by-parity-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/VanshShukla17/LEETCODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VanshShukla17/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/VanshShukla17/LEETCODE/tree/master/2396-strictly-palindromic-number) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/VanshShukla17/LEETCODE/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/VanshShukla17/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VanshShukla17/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/VanshShukla17/LEETCODE/tree/master/2418-sort-the-people) |
 | [3536-maximum-product-of-two-digits](https://github.com/VanshShukla17/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |

@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/VanshShukla17/LEETCODE/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/VanshShukla17/LEETCODE/tree/master/2427-number-of-common-factors) |
 | [2652-sum-multiples](https://github.com/VanshShukla17/LEETCODE/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/VanshShukla17/LEETCODE/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/VanshShukla17/LEETCODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/VanshShukla17/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/VanshShukla17/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |

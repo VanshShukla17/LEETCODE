@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/VanshShukla17/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/VanshShukla17/LEETCODE/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VanshShukla17/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0922-sort-array-by-parity-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/VanshShukla17/LEETCODE/tree/master/0941-valid-mountain-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/VanshShukla17/LEETCODE/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/VanshShukla17/LEETCODE/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/VanshShukla17/LEETCODE/tree/master/0682-baseball-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/VanshShukla17/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VanshShukla17/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/VanshShukla17/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/VanshShukla17/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/VanshShukla17/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/VanshShukla17/LEETCODE/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/VanshShukla17/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/VanshShukla17/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Enumeration

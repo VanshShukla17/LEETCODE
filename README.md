@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/VanshShukla17/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VanshShukla17/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/VanshShukla17/LEETCODE/tree/master/1748-sum-of-unique-elements) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/VanshShukla17/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VanshShukla17/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VanshShukla17/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/VanshShukla17/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/VanshShukla17/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VanshShukla17/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/VanshShukla17/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
 |  |
 | ------- |

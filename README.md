@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VanshShukla17/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VanshShukla17/LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/VanshShukla17/LEETCODE/tree/master/2418-sort-the-people) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VanshShukla17/LEETCODE/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/VanshShukla17/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/VanshShukla17/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/VanshShukla17/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/VanshShukla17/LEETCODE/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/VanshShukla17/LEETCODE/tree/master/2942-find-words-containing-character) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3019-number-of-changing-keys](https://github.com/VanshShukla17/LEETCODE/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/VanshShukla17/LEETCODE/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/VanshShukla17/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/VanshShukla17/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/VanshShukla17/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VanshShukla17/LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/VanshShukla17/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/VanshShukla17/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/VanshShukla17/LEETCODE/tree/master/2418-sort-the-people) |
 | [2974-minimum-number-game](https://github.com/VanshShukla17/LEETCODE/tree/master/2974-minimum-number-game) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/VanshShukla17/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/VanshShukla17/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Interactive
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/VanshShukla17/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bracket Sequences
 |  |
 | ------- |

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/VanshShukla17/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/VanshShukla17/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/VanshShukla17/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VanshShukla17/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0287-find-the-duplicate-number](https://github.com/VanshShukla17/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VanshShukla17/LEETCODE/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VanshShukla17/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/VanshShukla17/LEETCODE/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/VanshShukla17/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/VanshShukla17/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VanshShukla17/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
@@ -426,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/VanshShukla17/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/VanshShukla17/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

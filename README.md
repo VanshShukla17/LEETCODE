@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/VanshShukla17/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/VanshShukla17/LEETCODE/tree/master/1550-three-consecutive-odds) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/VanshShukla17/LEETCODE/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VanshShukla17/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/VanshShukla17/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VanshShukla17/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/VanshShukla17/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/VanshShukla17/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/VanshShukla17/LEETCODE/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/VanshShukla17/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/VanshShukla17/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/VanshShukla17/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/VanshShukla17/LEETCODE/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/VanshShukla17/LEETCODE/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/VanshShukla17/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VanshShukla17/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VanshShukla17/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/VanshShukla17/LEETCODE/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/VanshShukla17/LEETCODE/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/VanshShukla17/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/VanshShukla17/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
@@ -432,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/VanshShukla17/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/VanshShukla17/LEETCODE/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->

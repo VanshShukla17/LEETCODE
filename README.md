@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/VanshShukla17/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/VanshShukla17/LEETCODE/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/VanshShukla17/LEETCODE/tree/master/0771-jewels-and-stones) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/VanshShukla17/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/VanshShukla17/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/VanshShukla17/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/VanshShukla17/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/VanshShukla17/LEETCODE/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/VanshShukla17/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/VanshShukla17/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/VanshShukla17/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/VanshShukla17/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/VanshShukla17/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2104-sum-of-subarray-ranges](https://github.com/VanshShukla17/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/VanshShukla17/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1833-maximum-ice-cream-bars](https://github.com/VanshShukla17/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/VanshShukla17/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/VanshShukla17/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/VanshShukla17/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |

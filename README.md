@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/VanshShukla17/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1208-get-equal-substrings-within-budget](https://github.com/VanshShukla17/LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/VanshShukla17/LEETCODE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/VanshShukla17/LEETCODE/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VanshShukla17/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VanshShukla17/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VanshShukla17/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/VanshShukla17/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/VanshShukla17/LEETCODE/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/VanshShukla17/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VanshShukla17/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VanshShukla17/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/VanshShukla17/LEETCODE/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/VanshShukla17/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/VanshShukla17/LEETCODE/tree/master/1903-largest-odd-number-in-string) |

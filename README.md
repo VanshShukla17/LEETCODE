@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VanshShukla17/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/VanshShukla17/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/VanshShukla17/LEETCODE/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/VanshShukla17/LEETCODE/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/VanshShukla17/LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/VanshShukla17/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VanshShukla17/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/VanshShukla17/LEETCODE/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VanshShukla17/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/VanshShukla17/LEETCODE/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/VanshShukla17/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/VanshShukla17/LEETCODE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/VanshShukla17/LEETCODE/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1512-number-of-good-pairs](https://github.com/VanshShukla17/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VanshShukla17/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/VanshShukla17/LEETCODE/tree/master/1748-sum-of-unique-elements) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VanshShukla17/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VanshShukla17/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VanshShukla17/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/VanshShukla17/LEETCODE/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/VanshShukla17/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/VanshShukla17/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1208-get-equal-substrings-within-budget](https://github.com/VanshShukla17/LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/VanshShukla17/LEETCODE/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/VanshShukla17/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting

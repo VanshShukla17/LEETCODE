@@ -1,14 +1,17 @@
 class Solution {
     public int[] transformArray(int[] nums) {
-        for(int i = 0 ; i < nums.length ; i++){
-            if(nums[i]%2==0){
-                nums[i] = 0 ;
-            }
-            else{
-                nums[i] = 1;
+        int n = nums.length;
+        int j = 0;
+        for(int i = 0 ; i < n ; i++){
+            if(nums[i] % 2 == 0){
+                nums[j] = 0;
+                j++;
             }
         }
-    Arrays.sort(nums);
+        while(j<n){
+            nums[j] = 1;
+            j++;
+        }
     return nums;
     }
 }

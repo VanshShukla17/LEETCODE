@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/VanshShukla17/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/VanshShukla17/LEETCODE/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/VanshShukla17/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/VanshShukla17/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VanshShukla17/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0907-sum-of-subarray-minimums](https://github.com/VanshShukla17/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/VanshShukla17/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1208-get-equal-substrings-within-budget](https://github.com/VanshShukla17/LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/VanshShukla17/LEETCODE/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1480-running-sum-of-1d-array) |

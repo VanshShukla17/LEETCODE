@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/VanshShukla17/LEETCODE/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/VanshShukla17/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/VanshShukla17/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/VanshShukla17/LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/VanshShukla17/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/VanshShukla17/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VanshShukla17/LEETCODE/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VanshShukla17/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/VanshShukla17/LEETCODE/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/VanshShukla17/LEETCODE/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/VanshShukla17/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/VanshShukla17/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/VanshShukla17/LEETCODE/tree/master/0141-linked-list-cycle) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VanshShukla17/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/VanshShukla17/LEETCODE/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/VanshShukla17/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VanshShukla17/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/VanshShukla17/LEETCODE/tree/master/0657-robot-return-to-origin) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/VanshShukla17/LEETCODE/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/VanshShukla17/LEETCODE/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/VanshShukla17/LEETCODE/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/VanshShukla17/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |

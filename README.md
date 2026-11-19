@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/VanshShukla17/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/VanshShukla17/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/VanshShukla17/LEETCODE/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/VanshShukla17/LEETCODE/tree/master/0791-custom-sort-string) |
 | [1189-maximum-number-of-balloons](https://github.com/VanshShukla17/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/VanshShukla17/LEETCODE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/VanshShukla17/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/VanshShukla17/LEETCODE/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/VanshShukla17/LEETCODE/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/VanshShukla17/LEETCODE/tree/master/0791-custom-sort-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VanshShukla17/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/VanshShukla17/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/VanshShukla17/LEETCODE/tree/master/1108-defanging-an-ip-address) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/VanshShukla17/LEETCODE/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/VanshShukla17/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0791-custom-sort-string](https://github.com/VanshShukla17/LEETCODE/tree/master/0791-custom-sort-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/VanshShukla17/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VanshShukla17/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |

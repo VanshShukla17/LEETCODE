@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-find-closest-number-to-zero](https://github.com/VanshShukla17/LEETCODE/tree/master/2239-find-closest-number-to-zero) |
 | [2418-sort-the-people](https://github.com/VanshShukla17/LEETCODE/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/VanshShukla17/LEETCODE/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/VanshShukla17/LEETCODE/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2574-left-and-right-sum-differences](https://github.com/VanshShukla17/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/VanshShukla17/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/VanshShukla17/LEETCODE/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/VanshShukla17/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/VanshShukla17/LEETCODE/tree/master/1672-richest-customer-wealth) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/VanshShukla17/LEETCODE/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VanshShukla17/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VanshShukla17/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/VanshShukla17/LEETCODE/tree/master/2418-sort-the-people) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/VanshShukla17/LEETCODE/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/VanshShukla17/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/VanshShukla17/LEETCODE/tree/master/2974-minimum-number-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

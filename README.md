@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VanshShukla17/LEETCODE/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/VanshShukla17/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/VanshShukla17/LEETCODE/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/VanshShukla17/LEETCODE/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/VanshShukla17/LEETCODE/tree/master/0039-combination-sum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/VanshShukla17/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/VanshShukla17/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VanshShukla17/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/VanshShukla17/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/VanshShukla17/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/VanshShukla17/LEETCODE/tree/master/0148-sort-list) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VanshShukla17/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |

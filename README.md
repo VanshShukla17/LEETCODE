@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VanshShukla17/LEETCODE/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/VanshShukla17/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VanshShukla17/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/VanshShukla17/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/VanshShukla17/LEETCODE/tree/master/0049-group-anagrams) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/VanshShukla17/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VanshShukla17/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/VanshShukla17/LEETCODE/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/VanshShukla17/LEETCODE/tree/master/0383-ransom-note) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/VanshShukla17/LEETCODE/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/VanshShukla17/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VanshShukla17/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/VanshShukla17/LEETCODE/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/VanshShukla17/LEETCODE/tree/master/0258-add-digits) |

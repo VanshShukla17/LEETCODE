@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VanshShukla17/LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/VanshShukla17/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/VanshShukla17/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/VanshShukla17/LEETCODE/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/VanshShukla17/LEETCODE/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/VanshShukla17/LEETCODE/tree/master/0039-combination-sum) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VanshShukla17/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/VanshShukla17/LEETCODE/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VanshShukla17/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/VanshShukla17/LEETCODE/tree/master/0031-next-permutation) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VanshShukla17/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VanshShukla17/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/VanshShukla17/LEETCODE/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/VanshShukla17/LEETCODE/tree/master/1561-maximum-number-of-coins-you-can-get) |

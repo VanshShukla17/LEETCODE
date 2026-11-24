@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/VanshShukla17/LEETCODE/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/VanshShukla17/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/VanshShukla17/LEETCODE/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/VanshShukla17/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/VanshShukla17/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VanshShukla17/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/VanshShukla17/LEETCODE/tree/master/0148-sort-list) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/VanshShukla17/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VanshShukla17/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/VanshShukla17/LEETCODE/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/VanshShukla17/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/VanshShukla17/LEETCODE/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/VanshShukla17/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VanshShukla17/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |

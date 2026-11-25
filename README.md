@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/VanshShukla17/LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/VanshShukla17/LEETCODE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/VanshShukla17/LEETCODE/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VanshShukla17/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VanshShukla17/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VanshShukla17/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VanshShukla17/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/VanshShukla17/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VanshShukla17/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/VanshShukla17/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VanshShukla17/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/VanshShukla17/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2104-sum-of-subarray-ranges](https://github.com/VanshShukla17/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/VanshShukla17/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VanshShukla17/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/VanshShukla17/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VanshShukla17/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |

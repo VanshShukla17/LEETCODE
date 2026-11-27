@@ -1,14 +1,14 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        Set<List<Integer>> fls = new HashSet<>();
+        List<List<Integer>> fls = new ArrayList<>();
         List<Integer> ls = new ArrayList<>();
         int n = nums.length;
         int i = 0;
 
         subs(fls,ls,i,n,nums);
-    return new ArrayList<>(fls);
+    return fls;
     }
-    public static void subs(Set<List<Integer>> fls,List<Integer> ls,int i ,int n,int[] arr){
+    public static void subs(List<List<Integer>> fls,List<Integer> ls,int i ,int n,int[] arr){
         if(i==n){
             List temp = new ArrayList<>(ls);
             Collections.sort(temp);

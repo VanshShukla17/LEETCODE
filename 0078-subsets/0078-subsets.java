@@ -10,9 +10,7 @@ class Solution {
     }
     public static void subs(List<List<Integer>> fls,List<Integer> ls,int i ,int n,int[] arr){
         if(i==n){
-            List temp = new ArrayList<>(ls);
-            Collections.sort(temp);
-            fls.add(new ArrayList<>(temp));
+            fls.add(new ArrayList<>(ls));
             return;
         }
         ls.add(arr[i]);

@@ -4,7 +4,7 @@ class Solution {
         List<Integer> ds = new ArrayList<>();
         int n = nums.length;
         int i = 0;
-        Arrays.sort(nums);
+        Arrays.sort(nums);// sab duplicates ko adjacent arrange karne ke liye, tabhi arr[ind] == arr[ind-1] check hoga.
         subs2(ans,ds,i,n,nums);
     return  ans;
     }
@@ -14,7 +14,6 @@ class Solution {
         if( ind > i && arr[ind] == arr[ind-1]){
             continue;
         }
-
             ds.add(arr[ind]);
             subs2(ans,ds,ind+1,n,arr);
             ds.removeLast();

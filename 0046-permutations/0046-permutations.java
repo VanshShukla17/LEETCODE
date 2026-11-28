@@ -12,6 +12,7 @@ class Solution {
     public static void perm(List<List<Integer>> ans , List<Integer> ds, int n,int ind ,boolean[] visited ,int[] arr){
         if(ds.size() == n){
             ans.add(new ArrayList<>(ds));
+            return;
         }
         for(int i = 0 ; i < arr.length ; i++){
             if(!visited[i]){
